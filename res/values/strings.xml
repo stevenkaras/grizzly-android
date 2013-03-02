@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grizzly Android</string>
+    <string name="default_progress_text">Loading</string>
+    <string name="label_btn_start">Start</string>
+    <string name="label_btn_end">End</string>
+
+</resources>
