@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Grizzly Android</string>
+    <string name="app_name">Grizzly Time Tracking</string>
     <string name="default_progress_text">Loading</string>
     <string name="label_btn_start">Start</string>
     <string name="label_btn_end">End</string>
+    <string name="title_section1">Data Entry</string>
+    <string name="title_section2">History</string>
+    <string name="title_activity_main">Grizzly Time Tracking</string>
 
 </resources>

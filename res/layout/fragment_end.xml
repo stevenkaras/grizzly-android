@@ -20,8 +20,8 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true" >
 
-        <TextView
-            android:id="@+id/lbl_elapsed"
+        <Chronometer
+            android:id="@+id/chrono_elapsed"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
